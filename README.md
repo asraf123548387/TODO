@@ -1,4 +1,4 @@
-To run this project, we need vscode for frondend(react j.s),java ide for spring boot and mongodb compass for acessing the databases.
+To run this project, we need vscode for frontend(react j.s),java ide for spring boot and mongodb compass for acessing the databases.
 
 setup (react.js/frondend)
 
