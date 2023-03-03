@@ -23,7 +23,7 @@ setup (react.js/frondend)
  
  
 In this project ,
-we can add task,view the added task,check the added task and delete the task.
+we can add the task,viewing the added task,checking the added task and delete the task.
 
 in react create three additional component("viewtask component",addtaskcomponent","task component")
 in spring boot, created four pakages and the coresponding javaclases("entity","service","repository","controller")
